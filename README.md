@@ -1,2 +1,7 @@
-# 156FinalProject
+#Emotion Classification
 Final Project for Math 156 Machine Learning UCLA
+This project uses a Convolutional Neural Network (CNN) to classify human emotions from images. The model is trained on a dataset of facial expressions and predicts the corresponding emotion.
+
+Key Files
+Math156project.ipynb – Jupyter Notebook containing the CNN model, training process, and evaluation.
+archive.zip – Dataset containing images of facial expressions for training and testing.
